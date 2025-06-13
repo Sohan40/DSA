@@ -1,0 +1,17 @@
+# Ignore Templates directory
+Templates/
+
+# Common system files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Compiled files
+*.class
+*.o
+*.exe 
